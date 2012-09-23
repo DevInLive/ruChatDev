@@ -1,0 +1,6 @@
+## YAML Template.
+name: ChatPlugin
+main: chatplugin.ChatPlugin
+version: 1.0
+depend: [PermissionsEx]
+author: Smilesdc

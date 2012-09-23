@@ -1,0 +1,9 @@
+ChatMessageFormat: '%prefix %player: %message'
+JoinMessageFormat: '%prefix %player зашел на сервер!'
+QuitMessageFormat: '%prefix %player покинул сервер!'
+JoinMessageToPlayer: 'Добро пожаловать на сервер %prefix %player!'
+GlobalMessageFormat: '%prefix %player&f: %message'
+ChatRange: 100.0
+RangedMode: false
+GlobalMessageStartWith: '!'
+DeathMessage: true
